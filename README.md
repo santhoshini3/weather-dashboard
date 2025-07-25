@@ -24,21 +24,3 @@ A full-stack weather application that allows users to search for real-time weath
 
 ---
 
-## 📁 Project Structure
-
-weather-dashboard/
-├── client/ # React Frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── components/ # WeatherForm, WeatherDisplay, History
-│ │ ├── App.js
-│ │ └── App.css
-│ └── package.json
-├── server/ # Express Backend
-│ ├── models/ # Mongoose model
-│ ├── routes/ # Route handlers
-│ ├── controllers/ # Weather logic
-│ ├── server.js
-│ └── package.json
-└── README.md
-
