@@ -4,12 +4,6 @@ A full-stack weather dashboard that shows real-time weather conditions and a 5-d
 
 ---
 
-## 🔗 Live Demo
-
-[🔗 View Live Project](https://santhoshini3.github.io/weather-dashboard/) <!-- Update if deployed -->
-
----
-
 ## 📌 Features
 
 - 🔍 Search weather by city name
