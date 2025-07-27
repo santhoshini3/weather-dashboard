@@ -55,16 +55,16 @@ A full-stack weather dashboard that shows real-time weather conditions and a 5-d
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./Screenshots/Home Page.png)
+![Home Page](./Home Page.png)
 
 ---
 
 ### 🔍 Weather Search Results
-![Search Results](./Screenshots/Search Results.png)
+![Search Results](./Search Weather.png)
 
 ---
 
 ### 📜 Search History Section
-![Search History](./Screenshots/Search History.png)
+![Search History](./Search History.png)
 
 ---
